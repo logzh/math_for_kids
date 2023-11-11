@@ -1,0 +1,19 @@
+body {
+    font-size: 32px;
+}
+
+@media print {
+    body,
+    page {
+        font-size: 32px;
+    }
+}
+
+#table td {
+    padding-left: 2.5cm;
+    border: none;
+}
+
+#table tr {
+    border: none;
+}
